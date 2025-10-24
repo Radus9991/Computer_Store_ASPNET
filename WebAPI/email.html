@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        h1 {
+            color: #444;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        strong {
+            color: #000;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 30px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Payment Confirmation</h1>
+        <p>Dear {username},</p>
+
+        <p>We are pleased to confirm your payment status for the following order:</p>
+
+        <ul>
+            <li><strong>Order ID:</strong> {orderId}</li>
+            <li><strong>Payment Status:</strong> {paymentStatus}</li>
+            <li><strong>Total Amount:</strong> {totalAmount}</li>
+            <li><strong>Order Date:</strong> {date}</li>
+        </ul>
+
+        <h3>Next Steps</h3>
+
+        <p>Thank you for your purchase! If you have any questions or need further assistance, feel free to contact our support team.</p>
+
+        <p>Best regards,</p>
+
+        <p><strong>Company</strong></p>
+    </div>
+    <div class="footer">
+        &copy; 2024 Company. All rights reserved. <a href="#">Privacy Policy</a>
+    </div>
+</body>
+</html>

@@ -2,6 +2,8 @@
 # compiled source #
 ###################
 EmailWorker/appsettings.json
+WebAPI/appsettings.json
+WebAPI/appsettings.Development.json
 *.com
 *.class
 *.dll
@@ -74,3 +76,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+.env

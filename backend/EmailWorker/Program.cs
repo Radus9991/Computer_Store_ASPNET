@@ -11,8 +11,9 @@ public class Program
     public static async Task Main(string[] args)
     {
         var settings = new ConfigurationBuilder()
-            .AddJsonFile("appsettings.json")
-            .Build();
+        .AddJsonFile("appsettings.json", optional: true)
+        .AddEnvironmentVariables()
+        .Build();
 
         var redis = await ConnectionMultiplexer.ConnectAsync(settings["Redis:Url"] ?? "");
         var database = redis.GetDatabase();

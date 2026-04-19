@@ -54,13 +54,13 @@ Das Projekt folgt dem **Clean Architecture** Ansatz und verwendet bewährte Entw
     ```
 2.  **Backend starten:**
     ```bash
-    cd Backend/ComputerStore.Api
+    cd backend/WebAPI
     dotnet restore
     dotnet run
     ```
 3.  **Frontend starten:**
     ```bash
-    cd Frontend
+    cd frontend
     npm install
     npm start
     ```

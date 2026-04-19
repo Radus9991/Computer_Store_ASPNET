@@ -1,0 +1,41 @@
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 4px;
+  background-color: #00915c;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  color: #fff;
+}
+
+select:focus {
+  outline: none;
+  border-color: #00bb76;
+}
+
+option {
+  padding: 10px;
+  font-size: 16px;
+}
+
+select:disabled {
+  background-color: #008152;
+  color: #008152;
+}
+
+option:disabled {
+  background-color: #008152;
+  color: #008152;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 0.7rem center;
+  background-size: 16px;
+}
+
+/*BY CHATGPT*/

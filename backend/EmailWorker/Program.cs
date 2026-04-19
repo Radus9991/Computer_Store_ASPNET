@@ -39,7 +39,7 @@ public class Program
         }
     }
 
-    //Ten program jest odpowiedzialny za odbieranie danych i wyslanie maila. API -> Redis (Docker) -> Client
+    // API -> Redis (Docker) -> Client
     public static void SendEmail(EmailMessage emailMessage, string senderEmail, string host, int port, string password)
     {
         var message = new MimeMessage();
@@ -50,7 +50,7 @@ public class Program
         var body = new BodyBuilder
         {
             HtmlBody = emailMessage.Content,
-            TextBody = emailMessage.Content     //To dziala jak alt img, jak ktos ma poblokowane konteksty HTML to wyswwietli sie TextBody
+            TextBody = emailMessage.Content    
         };
 
         message.Body = body.ToMessageBody();

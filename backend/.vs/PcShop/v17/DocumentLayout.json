@@ -1,0 +1,1006 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\dto\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dto\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\entity\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entity\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\exceptions\\nosufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exceptions\\nosufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\exceptions\\invalidorderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exceptions\\invalidorderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\exceptions\\invalidcomputerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exceptions\\invalidcomputerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\services\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\services\\ipasswordalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\ipasswordalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\applicationcore\\services\\icomputerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CD6ECC-D1B4-4A56-A175-252DD42388AA}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\icomputerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\emailworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|solutionrelative:emailworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\emailworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|solutionrelative:emailworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\emailworker\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC537C4C-42ED-49C8-99C9-5D3EDE57533C}|EmailWorker\\EmailWorker.csproj|solutionrelative:emailworker\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\services\\userserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\userserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\services\\transactionmanageref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\transactionmanageref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\services\\orderserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\orderserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\services\\computerserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\computerserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\repositories\\userentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\repositories\\userentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\repositories\\orderentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\repositories\\orderentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\repositories\\computerentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\repositories\\computerentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\infrastructure\\ef\\models\\computerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C13F8-FA37-427E-8532-77EAA3042CDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\models\\computerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\ipaypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\ipaypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\iauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\iauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\models\\redis\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\redis\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\models\\paypal\\paypalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\paypal\\paypalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\models\\paypal\\paypalauthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\paypal\\paypalauthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\user\\userauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\user\\userauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\user\\tokencreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\user\\tokencreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\order\\ordershortgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\order\\ordershortgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\order\\ordergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\order\\ordergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\order\\approveorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\order\\approveorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\computer\\computergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\computer\\computergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\dto\\computer\\computercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\computer\\computercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|d:\\radek\\documents\\github\\self-learning\\my_projects\\computer_store_aspnet\\computer_store_aspnet\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAA8C28-76D3-4188-9CFB-2A412029DF41}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\DTO\\Page.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DTO\\Page.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\DTO\\Page.cs",
+              "RelativeToolTip": "ApplicationCore\\DTO\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoSufficientFundsException.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\NoSufficientFundsException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exceptions\\NoSufficientFundsException.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\NoSufficientFundsException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exceptions\\NoSufficientFundsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:30.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidUserException.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidUserException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exceptions\\InvalidUserException.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidUserException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exceptions\\InvalidUserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidOrderException.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidOrderException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exceptions\\InvalidOrderException.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidOrderException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exceptions\\InvalidOrderException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidComputerException.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidComputerException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exceptions\\InvalidComputerException.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Exceptions\\InvalidComputerException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exceptions\\InvalidComputerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\UserType.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\UserType.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\UserType.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:27.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\User.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\User.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\Computer.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\Computer.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\Order.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Models\\Order.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Entity\\IEntity.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entity\\IEntity.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Entity\\IEntity.cs",
+              "RelativeToolTip": "ApplicationCore\\Entity\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:55:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\IUserService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IUserService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionManager.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\ITransactionManager.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ITransactionManager.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\ITransactionManager.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ITransactionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPasswordAlgorithm.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IPasswordAlgorithm.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\IPasswordAlgorithm.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IPasswordAlgorithm.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\IPasswordAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IOrderService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IComputerService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IComputerService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\IComputerService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\ApplicationCore\\Services\\IComputerService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\IComputerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:17:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailWorker\\appsettings.json",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\appsettings.json",
+              "RelativeToolTip": "EmailWorker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T17:17:00.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserServiceEF.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\UserServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\UserServiceEF.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\UserServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\UserServiceEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionManagerEF.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\TransactionManagerEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\TransactionManagerEF.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\TransactionManagerEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\TransactionManagerEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderServiceEF.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\OrderServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\OrderServiceEF.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\OrderServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\OrderServiceEF.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ComputerServiceEF.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\ComputerServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\ComputerServiceEF.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Services\\ComputerServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\ComputerServiceEF.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:38.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserEntityRepository.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\UserEntityRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Repositories\\UserEntityRepository.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\UserEntityRepository.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Repositories\\UserEntityRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderEntityRepository.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\OrderEntityRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Repositories\\OrderEntityRepository.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\OrderEntityRepository.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Repositories\\OrderEntityRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:33.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Context\\DataContext.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Context\\DataContext.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:22.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\Program.cs",
+              "RelativeDocumentMoniker": "EmailWorker\\Program.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\Program.cs",
+              "RelativeToolTip": "EmailWorker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:54:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComputerEntityRepository.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\ComputerEntityRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Repositories\\ComputerEntityRepository.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Repositories\\ComputerEntityRepository.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Repositories\\ComputerEntityRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\Models\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "EmailWorker\\Models\\EmailMessage.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\EmailWorker\\Models\\EmailMessage.cs",
+              "RelativeToolTip": "EmailWorker\\Models\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:54:54.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Models\\OrderEntity.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\OrderEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Models\\OrderEntity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:29.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Models\\UserEntity.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\UserEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Models\\UserEntity.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:28.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ComputerEntity.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\ComputerEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Models\\ComputerEntity.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\Infrastructure\\EF\\Models\\ComputerEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Models\\ComputerEntity.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:16:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\PaypalService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\PaypalService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:56.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPaypalService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IPaypalService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IPaypalService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IPaypalService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IPaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IEmailService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IBasketService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IBasketService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:55.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAuthorizationService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IAuthorizationService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IAuthorizationService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\IAuthorizationService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IAuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\Hashing.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\Hashing.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\Hashing.cs",
+              "RelativeToolTip": "WebAPI\\Services\\Hashing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\EmailService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\BasketService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\BasketService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\AuthorizationService.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\AuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:42.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Redis\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Redis\\EmailMessage.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Redis\\EmailMessage.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Redis\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:39.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaypalResponse.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Paypal\\PaypalResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Paypal\\PaypalResponse.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Paypal\\PaypalResponse.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Paypal\\PaypalResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaypalAuthResponse.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Paypal\\PaypalAuthResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Paypal\\PaypalAuthResponse.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Models\\Paypal\\PaypalAuthResponse.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Paypal\\PaypalAuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Mapper\\MapperProfile.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "WebAPI\\Mapper\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:25.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Hubs\\OrderHub.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Hubs\\OrderHub.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Hubs\\OrderHub.cs",
+              "RelativeToolTip": "WebAPI\\Hubs\\OrderHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\User\\UserCreateDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\UserCreateDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\User\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:17.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserAuthDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\UserAuthDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\User\\UserAuthDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\UserAuthDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\User\\UserAuthDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TokenCreateDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\TokenCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\User\\TokenCreateDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\User\\TokenCreateDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\User\\TokenCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:15.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderShortGetDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\OrderShortGetDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\Order\\OrderShortGetDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\OrderShortGetDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\Order\\OrderShortGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderGetDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\OrderGetDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\Order\\OrderGetDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\OrderGetDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\Order\\OrderGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:14.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApproveOrderDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\ApproveOrderDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\Order\\ApproveOrderDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Order\\ApproveOrderDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\Order\\ApproveOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ComputerGetDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Computer\\ComputerGetDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\Computer\\ComputerGetDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Computer\\ComputerGetDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\Computer\\ComputerGetDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ComputerCreateDTO.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Computer\\ComputerCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\Computer\\ComputerCreateDTO.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\DTO\\Computer\\ComputerCreateDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\Computer\\ComputerCreateDTO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:15:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:14:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\RedisController.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:14:46.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:14:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ComputerController.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\ComputerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ComputerController.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\ComputerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ComputerController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:14:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\radek\\Documents\\Github\\Self-learning\\My_Projects\\Computer_Store_ASPNET\\Computer_Store_ASPNET\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:14:37.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

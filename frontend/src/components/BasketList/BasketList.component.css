@@ -1,0 +1,46 @@
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .basketComputers {
+    width: 95%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin: 0 auto;
+  }
+  
+  .basketComputers th,
+  .basketComputers td {
+    border: 1px solid #2d2d2d;
+    padding: 10px;
+    letter-spacing: 0.05em;
+  }
+  
+  .basketComputers th {
+    background-color: #00915c;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .basketComputers tr:nth-child(even) {
+    background-color: #333333;
+  }
+
+  .pp-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  

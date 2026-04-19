@@ -1,6 +1,7 @@
 ###################
 # compiled source #
 ###################
+EmailWorker/appsettings.json
 *.com
 *.class
 *.dll

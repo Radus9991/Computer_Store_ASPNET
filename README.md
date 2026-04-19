@@ -2,19 +2,20 @@
 
 Dieses Projekt ist eine umfassende E-Commerce-Lösung für einen Computer-Onlineshop. Es wurde als Fullstack-Anwendung entwickelt, um moderne Software-Architekturen und Best Practices in der Web-Entwicklung zu demonstrieren – von einer robusten REST-API im Backend bis hin zu einem responsiven Frontend.
 
-## 🚀 Features
+## 🚀 Key Features
 
 ### Backend (Core Logic)
-* **RESTful API:** Strukturierte Endpunkte für Produkte, Benutzer und Bestellungen.
-* **Authentifizierung:** Sicherer Login und Registrierung mittels **JWT (JSON Web Tokens)**.
+* **RESTful API:** Strukturierte Endpunkte für Produkte, Benutzerverwaltung und Bestellungen.
+* **Authentifizierung:** Sicherer Zugriff mittels **JWT (JSON Web Tokens)** und Rollenmanagement.
 * **Zahlungsintegration:** Voll funktionsfähige **PayPal-Anbindung** für den Checkout-Prozess.
-* **Hintergrundverarbeitung:** Automatisierter E-Mail-Versand (z. B. Bestellbestätigungen) über **Redis-Queues**.
-* **Datenmanagement:** Einsatz von **Entity Framework Core** für relationale Abläufe und **MongoDB** für flexible Datenstrukturen.
+* **Hintergrundverarbeitung:** Einsatz von **Redis-Queues** für asynchrone Aufgaben (z. B. automatisierter E-Mail-Versand).
+* **Datenmanagement:** Hybrid-Ansatz mit **Entity Framework Core** (SQL) und **MongoDB** für flexible Produktkataloge.
+* **API-Dokumentation:** Integriertes **Swagger UI** zum einfachen Testen der Endpunkte.
 
 ### Frontend (User Experience)
-* **Modernes UI:** Entwickelt mit **React.js** für eine performante Single-Page-Application (SPA).
-* **Responsive Design:** Optimiert für alle Endgeräte (Desktop, Tablet, Mobile) unter Einhaltung von W3C-Standards.
-* **State Management:** Effiziente Verwaltung von Warenkorb und Benutzerstatus.
+* **Modernes UI:** Entwickelt mit **React.js** unter Nutzung von Hooks und funktionalen Komponenten.
+* **Responsive Design:** Mobile-First Ansatz, optimiert für alle Endgeräte unter Einhaltung von W3C-Standards.
+* **State Management:** Effiziente Verwaltung von Warenkorb, Benutzer-Sessions und Produktfiltern.
 
 ---
 
@@ -22,21 +23,20 @@ Dieses Projekt ist eine umfassende E-Commerce-Lösung für einen Computer-Online
 
 | Bereich | Technologie |
 | :--- | :--- |
-| **Backend** | C#, ASP.NET Core, Entity Framework Core |
-| **Frontend** | React.js, JavaScript (ES6+), CSS3 (Responsive) |
-| **Datenbanken** | MongoDB, SQL (via EF Core) |
+| **Backend** | C# (.NET 6/7), ASP.NET Core Web API |
+| **Frontend** | React.js, JavaScript (ES6+), CSS3 / Styled Components |
+| **Datenbanken** | MongoDB (NoSQL), SQL Server (via EF Core) |
 | **Caching/Queues** | Redis |
-| **Sicherheit** | JWT (Stateless Authentication) |
-| **Payment** | PayPal API |
+| **Tools & Security** | JWT, Swagger, NuGet, npm |
 
 ---
 
-## 🏗 Architektur
+## 🏗 Architektur & Patterns
 
-Das Projekt folgt dem **Clean Architecture** Ansatz und verwendet bewährte Entwurfsmuster (Design Patterns):
-* **Repository Pattern:** Zur Entkopplung der Datenzugriffslogik von der Business-Logik.
-* **Service Layer:** Zentralisierung der Geschäftslogik für bessere Testbarkeit und Wartbarkeit.
-* **Dependency Injection:** Konsequente Nutzung des integrierten .NET DI-Containers.
+Das Projekt folgt professionellen Software-Standards, um Skalierbarkeit und Wartbarkeit zu gewährleisten:
+* **Repository & Service Pattern:** Saubere Trennung von Datenzugriff und Geschäftslogik.
+* **Dependency Injection:** Konsequente Nutzung des integrierten .NET Core DI-Containers.
+* **DTOs (Data Transfer Objects):** Sicherer und entkoppelter Datenaustausch zwischen API und Frontend.
 
 ---
 
@@ -45,12 +45,19 @@ Das Projekt folgt dem **Clean Architecture** Ansatz und verwendet bewährte Entw
 ### Voraussetzungen
 * [.NET 6.0/7.0 SDK](https://dotnet.microsoft.com/download)
 * [Node.js & npm](https://nodejs.org/)
-* [MongoDB](https://www.mongodb.com/) & [Redis](https://redis.io/) (lokal oder via Docker)
+* Laufende Instanzen von **MongoDB** und **Redis** (lokal oder via Docker)
 
-### Schritte
-1.  **Repository klonen:**
-    ```bash
-    git clone https://github.com/Radus9991/Computer_Store_ASPNET.git
+### Konfiguration
+Vor dem Start müssen die Verbindungseinstellungen in der `appsettings.json` im Backend-Verzeichnis konfiguriert werden:
+- MongoDB Connection String
+- Redis Configuration
+- PayPal Client ID & Secret
+- JWT Secret Key
+
+### Schritte zum Ausführen
+1. **Repository klonen:**
+   ```bash
+   git clone [https://github.com/Radus9991/Computer_Store_ASPNET.git](https://github.com/Radus9991/Computer_Store_ASPNET.git)
     ```
 2.  **Backend starten:**
     ```bash

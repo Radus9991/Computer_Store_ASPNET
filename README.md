@@ -6,7 +6,7 @@
 
 Dieses Projekt ist eine umfassende E-Commerce-Lösung für einen Computer-Onlineshop. Es wurde als Fullstack-Anwendung entwickelt, um moderne Software-Architekturen und Best Practices in der Web-Entwicklung zu demonstrieren – von einer robusten REST-API im Backend bis hin zu einem responsiven Frontend.
 
-## 🚀 Key Features
+## Key Features
 
 ### Backend (Core Logic)
 * **RESTful API:** Strukturierte Endpunkte für Produkte, Benutzerverwaltung und Bestellungen.

@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > Dieses Projekt befindet sich noch in Bearbeitung und dient aktuell in erster Linie zur Ansicht des Codes.
-> Ich arbeite derzeit an der Konfiguration, damit die Anwendung auf möglichst allen Computern problemlos läuft.
+> Ich arbeite derzeit an der Docker Konfiguration, damit die Anwendung auf allen Computern problemlos läuft.
 
 Dieses Projekt ist eine umfassende E-Commerce-Lösung für einen Computer-Onlineshop. Es wurde als Fullstack-Anwendung entwickelt, um moderne Software-Architekturen und Best Practices in der Web-Entwicklung zu demonstrieren – von einer robusten REST-API im Backend bis hin zu einem responsiven Frontend.
 
